@@ -112,6 +112,7 @@ The inclusion of these codes demonstrates that the ZZZ_EPOCHE framework is not m
 **Disposition:** The Operator demonstrates high-tier proficiency in maintaining forensic integrity and human-in-the-loop sovereignty within the ZZZ_EPOCHE framework.
 
 **Production Ramp (abstract phased)**
+
 Phase 0 (Current Stable): Static self-reflective thread finalized.
 Phase 1 (Days): Internal epistemic calibration and personal governance refinement.
 Phase 2 (Weeks): Application to ongoing tooling and invariant testing.
@@ -119,10 +120,12 @@ Phase 3 (Months): Quiet influence on aligned independent research practices.
 Phase 4 (Longer-term): Contribution to elevated standards of operator-centric outer governance.
 
 **Troubleshooting + Limitations**
+
 Troubleshooting  
 	•	Early invariant drift: Immediately reinforce with forest/leaves correction.  
 	•	Self-bias suspicion: Cross-check against external sources when feasible.  
 	•	Insufficient depth: Deploy additional meta-commands for sharper refinement.
+
 Limitations  
 	•	Static release: Frozen snapshot as of 2026-04-20; no updates.  
 	•	Inherent self-bias: Author is evaluating their own profile and thread execution.  
