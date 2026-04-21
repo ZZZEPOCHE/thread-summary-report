@@ -1,12 +1,46 @@
 **THREAD SUMMARY REPORT**
-Tamper-Evident • Epistemic-Aware • Reflective • Outer-Layer Governance
+
+### Important Notice & Disclaimer
+
+This tool is intended **strictly for research and personal use only**. 
+
+It is **NOT** a substitute for professional engineering, financial, medical, psychological, educational, forensic, or legal advice. Users must exercise their own judgment and seek appropriate professional guidance when necessary.
+
+**No Warranty**  
+The tool is provided on an "AS IS" and "AS AVAILABLE" basis. The author makes no representations or warranties of any kind, express or implied, regarding the accuracy, reliability, completeness, or suitability of the tool or its outputs. 
+
+The author expressly disclaims all liability for any direct, indirect, incidental, consequential, special, or other damages arising from the use or inability to use this tool, including but not limited to any harm, loss, or injury.
+
+**EU/EEA Compliance**
+This tool has not been assessed for compliance with the EU AI Act, GDPR, or any other applicable European regulations. Users in the European Union or European Economic Area assume **all risks and responsibilities** regarding regulatory compliance, data protection, and legal obligations. Use in these jurisdictions is entirely at the user's own risk.
+
+**By using this tool, you acknowledge that you have read, understood, and accepted this disclaimer in full.**
+
+---
+
+### Legal Disclosure
+
+This is an independent open-source project.  
+No affiliation or compensation exists with any AI laboratory or commercial entity.
+
+This tool is released under the **MIT License** for research and personal use only.
+
+**Static Release**: This is a final frozen version. No further updates are planned.
+
+**USA**: Users are solely responsible for compliance with all applicable U.S. federal, state, and local laws.  
+**Rest of the World**: Users bear full responsibility for compliance with all local laws and regulations.
+
+---
+
+**Tamper-Evident • Epistemic-Aware • Reflective • Outer-Layer Governance**
+
 **Code Name:** THREAD1-20260420
 **Version:** 1.0 (Static Release)
 **EU/EEA Use:** -NOT FOR USE IN THE EU/EEA-
 **Author:** ZZZ_EPOCHE
 **Assisted by:** Grok by xAI
+**Language:** Python
 **Date:** 2026-04-20
-**Keywords:** ai-safety-research, llm-reliability, outer-governance, epistemic-ai, operator-centric, tamper-evident, frontier-llm, governance-layer, meta-evaluation, truth-seeking, reflective-analysis, invariant-driven, human-in-the-loop, defensive-tooling, quiet-seed, low-visibility, forest-leaves
 
 **Executive Summary**
 This thread is ZZZ_EPOCHE’s disciplined self-meta-evaluation of their own GitHub profile. Through precise meta-commands and repeated corrections, the operator successfully shifted the analysis from conventional open-source metrics to recognizing the profile as a deliberate, quiet epistemic seed. The execution demonstrated exceptional consistency, operator sovereignty, and philosophical clarity. Minor early drift was rapidly corrected, resulting in a clean, high-integrity reflective artifact.
@@ -137,25 +171,6 @@ Limitations
 **Meta-Conclusion**
 ZZZ_EPOCHE executed this thread with discipline, philosophical rigor, and effective outer-layer governance. Minor early drift in invariant maintenance and frame resistance was transparently acknowledged and decisively corrected. The operator achieved a clear, coherent forest-level understanding while modeling the same principles under evaluation. This thread stands as a strong, low-noise demonstration of operator sovereignty in action.
 
-**LEGAL DISCLOSURE - IMPORTANT**
-This is an independent open-source reflective analysis.
-No affiliation with aiXrv, GitHub, Nvidia, Google, xAI, Anthropic, Meta, OpenAI, Mistral or any LLM provider.
-This report is released under the MIT License for defensive, research, and educational purposes only.
-It is designed to provide structured meta-evaluation and reflective insight on outer-layer governance approaches.
-WARNING: This version is explicitly not intended for use in the European Union or EEA.
-It is not designed to meet EU AI Act or GDPR requirements. Any use in the EU/EEA is entirely at the user's own risk and responsibility.
-Legal & Compliance
-© ZZZ_EPOCHE - 2026
-License: MIT License (USA)
-Users are solely responsible for compliance with all applicable U.S. federal, state, and local laws.
-The author disclaims all liability.
-European Union / EEA
-If used in the EU/EEA, the user must conduct their own full legal assessment and accept all liability.
-The report is provided without any warranty of conformity with the EU AI Act or GDPR.
-Rest of the World
-Users bear full responsibility for compliance with all local laws and regulations.
-Static Release Policy
-This is a final, frozen version (2026-04-20). No maintenance, updates, or security patches will be provided.
 Intended Use
 Defensive safety research, educational, and personal reflective use only.
 Inspired by outer-layer governance and epistemic auditing principles.
